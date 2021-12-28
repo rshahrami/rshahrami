@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
 ![Gists](https://badges.pufler.dev/gists/rshahrami)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ssbostan&include_all_commits=true&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=rshahrami&include_all_commits=true&theme=merko)
