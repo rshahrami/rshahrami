@@ -24,4 +24,26 @@ Here are some ideas to get you started:
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rshahrami&include_all_commits=true&theme=merko)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rshahrami&count_private=true)](https://rshahrami.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rshahrami&langs_count=8)](https://rshahrami.com/)
+
+
+
+
+### Hi there 👋, I am Kaveh Rezaei
+###### *Software Engineer*
+A Software Engineer & security enthusiast, working as a freelance backend developer.
+
+### You can also find me on
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/KavehRS/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@kavehrs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.kavehrs.com)  
+
+### My GitHub stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kavehrs&count_private=true)](https://kavehrs.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehrs&langs_count=8)](https://kavehrs.com/)
+
+
+
+
+
+
