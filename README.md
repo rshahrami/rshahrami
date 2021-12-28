@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![Visits](https://badges.pufler.dev/visits/rshahrami/rshahrami)
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
-[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev/gists/rshahrami)
+![Repos](https://badges.pufler.dev/gists/rshahrami)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rshahrami&include_all_commits=true&theme=merko)
