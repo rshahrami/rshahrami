@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Reza Shahrami nia
+# Hi 👋, I'm Reza Shahrami
 
 ### I'm a DevOps engineer.
 
