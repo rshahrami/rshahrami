@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezashahraminia)
 
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rshahrami.visitor-badge&left_text=Visitors)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rshahrami&count_private=true)](https://rshahrami.com/)
 
