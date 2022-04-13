@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezashahraminia)
 
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
-![Visits](https://badges.pufler.dev/visits/rshahrami/{Repos})
+![Visits](https://badges.pufler.dev/visits/rshahrami/git-badges)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rshahrami&count_private=true)](https://rshahrami.com/)
