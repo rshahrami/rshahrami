@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Repos](https://badges.pufler.dev/repos/rshahrami)
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rshahrami&left_text=Visitors)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rshahrami&count_private=true)](https://rshahrami.com/)
