@@ -35,7 +35,6 @@ find me here:
 ### Back-End Skills:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
-![Django](https://img.shields.io/pypi/frameworkversions/django)
 
 ### IDEs:
 
